@@ -70,6 +70,5 @@ Important notes
 - When you click Draw Free button - it will reset the axes
 - You can Zoom-in, Zoom-out and Pan the image by using shortcuts at the upper left(to you) of the GUI.
 - You can Reset to Original View by - Right click to image and Select 'Reset to Original View'
--
 
 Feel free to ask questions - cakilic@mix.wvu.edu
