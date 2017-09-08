@@ -1,9 +1,5 @@
 # GUI Tutorial
 
-
-
-
-
 ### Prerequisites
 
 - Matlab installation
@@ -20,14 +16,12 @@ http://it.wvu.edu/files/d/293391de-df69-4324-a9fa-f74f3ecf6030/matlab-student-in
 3- Make sure that gui_Ubuntu_Win folder includes poses and stages folders, flowerIdentifierGUI.fig and flowerIdentifierGUI.m files
 ```
 
-
 ## Getting Started
 #### Before processing please configure your MATLAB saving configuration as below; (You can still do it if you already start, but it should be done before saving your database - Step 16 Finish Folder)
 
 ```
 MATLAB -> Preferences -> General -> MAT-Files - > check MATLAB Version 7.3 or later (save -7.3)
 ```
-
 
 ## How to use the GUI
 
