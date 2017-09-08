@@ -1,4 +1,11 @@
 # GUI Tutorial
+
+
+
+
+
+### Prerequisites
+
 - Matlab installation
 http://it.wvu.edu/files/d/293391de-df69-4324-a9fa-f74f3ecf6030/matlab-student-installation-instructions-1.pdf
 
@@ -14,12 +21,15 @@ http://it.wvu.edu/files/d/293391de-df69-4324-a9fa-f74f3ecf6030/matlab-student-in
 ```
 
 
-Note: Before processing please configure your MATLAB saving configuration as below; (You can still do it if you already start, but it should be done before saving your database - Step 16 Finish Folder)
------------------------------------------------------------------------------------------------
-MATLAB -> Preferences -> General -> MAT-Files - > check MATLAB Version 7.3 or later (save -7.3)
-----------------------------------------------------------------------------------------------
+## Getting Started
+#### Before processing please configure your MATLAB saving configuration as below; (You can still do it if you already start, but it should be done before saving your database - Step 16 Finish Folder)
 
-- How to use the GUI
+```
+MATLAB -> Preferences -> General -> MAT-Files - > check MATLAB Version 7.3 or later (save -7.3)
+```
+
+
+## How to use the GUI
 
 1- Open gui_Ubuntu_Win folder and open flowerIdentifierGUI.m file - it will start the Matlab also. Alternatively, you may open MATLAB and navigate your workspace to gui_Ubuntu_Win folder and write flowerIdentifierGUI and press enter.
 
@@ -69,65 +79,3 @@ Important notes
 -
 
 Feel free to ask questions - cakilic@mix.wvu.edu
-
-
-
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you have to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
