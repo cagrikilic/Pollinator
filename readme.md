@@ -14,12 +14,14 @@ http://it.wvu.edu/files/d/293391de-df69-4324-a9fa-f74f3ecf6030/matlab-student-in
 ```
 
 
-Note: Before processing please configure your MATLAB saving configuration as below; (You can still do it if you already start, but it should be done before saving your database - Step 16 Finish Folder)
------------------------------------------------------------------------------------------------
-MATLAB -> Preferences -> General -> MAT-Files - > check MATLAB Version 7.3 or later (save -7.3)
-----------------------------------------------------------------------------------------------
+#### Before processing please configure your MATLAB saving configuration as below; (You can still do it if you already start, but it should be done before saving your database - Step 16 Finish Folder)
 
-- How to use the GUI
+```
+MATLAB -> Preferences -> General -> MAT-Files - > check MATLAB Version 7.3 or later (save -7.3)
+```
+
+
+## How to use the GUI
 
 1- Open gui_Ubuntu_Win folder and open flowerIdentifierGUI.m file - it will start the Matlab also. Alternatively, you may open MATLAB and navigate your workspace to gui_Ubuntu_Win folder and write flowerIdentifierGUI and press enter.
 
