@@ -3,7 +3,7 @@
 ### Prerequisites
 
 - Matlab installation
-http://it.wvu.edu/files/d/293391de-df69-4324-a9fa-f74f3ecf6030/matlab-student-installation-instructions-1.pdf
+https://goo.gl/AYUDm2
 
 ## GUI Installation
 ```
