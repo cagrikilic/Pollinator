@@ -7,7 +7,7 @@ https://goo.gl/AYUDm2
 
 ## GUI Installation
 ```
-1- Download the file gui_Ubuntu_Win.zip
+1- Download gui_Ubuntu_Win folder
 ```
 ```
 2- Unzip by extracting to gui_Ubuntu_Win\ folder
